@@ -1,0 +1,29 @@
+iPhone_29
+iPhone_29x2 - 58
+iPhone_29x3 - 87
+
+iPhone_Spotlight_40x2 - 80
+iPhone_Spotlight_40x3 - 120
+
+iPhone_App_57
+iPhone_App_57x2 - 114
+
+iPhone_App_60x2 - 120
+iPhone_App_60x3 - 180
+
+iPad_Settings_29
+iPad_Settings_29x2 - 58
+
+iPad_Spotlight_40
+iPad_Spotlight_40x2 - 80
+
+iPad_Spotlight_50
+iPad_Spotlight_50x2 - 100
+
+iPad_App_72
+iPad_App_72x2 - 144
+
+iPad_App_76
+iPad_App_76x2 - 152
+
+iPad_Pro_App_83.5x2 - 167
